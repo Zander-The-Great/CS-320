@@ -1,4 +1,5 @@
 # CS320
+SNHU
 
 How can I ensure that my code, program, or software is functional and secure? 
 -By integrating functional vs nonfunctional tests. We can also look into static vs dynamic testing to ensure our code is written appropriately and functions as intended. Our testing can be as in depth as needed. Some simple programs dont need to go super deep. As the complexity rises and the nature of the code has to have strong integrity we can optimize our testing in its nature.
